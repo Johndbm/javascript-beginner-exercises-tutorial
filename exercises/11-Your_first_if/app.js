@@ -9,7 +9,7 @@ function distance(d) {
         result = ""
     }
 }
-
+//intentando algo en la estructura del cuerpo de la funcion
 function distance(d) {
     let result;
     if (d > 100){
