@@ -9,7 +9,8 @@ function distance(d) {
         result = ""
     }
 }
-//intentando algo en la estructura del cuerpo de la funcion
+/*intentando algo en la estructura del cuerpo de la funcion
+// Esta es la funcion :
 function distance(d) {
     let result;
     if (d > 100){
@@ -21,4 +22,4 @@ function distance(d) {
             result = "We'll be there in 5 minutes";
         }
     }
-}
+}*/
