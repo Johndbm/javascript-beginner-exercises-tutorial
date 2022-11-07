@@ -1,2 +1,2 @@
 //your code below
-console.log('Hello World! Im learning JS!! WOHOO!!!');
+console.log('Hello World');
